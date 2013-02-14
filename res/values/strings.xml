@@ -5204,6 +5204,7 @@
     <!-- ======================================================================================= -->
 
     <string name="rom_control_title">ROM Control</string>
+
     <string name="aokp_version">AOKP version</string>
     <string name="aokp_version_default">Unknown</string>
 
@@ -5260,10 +5261,5 @@
     <string name="auto_brightness_menu_edit_lux">Ambient brightness range</string>
     <string name="auto_brightness_menu_split">Split</string>
     <string name="auto_brightness_menu_remove">Remove</string>
-
-    <!-- Waiver -->
-    <string name="cyanogenmod_waiver_title">Waiver</string>
-    <string name="cyanogenmod_waiver_body">Changing this setting may be against your state or government laws.\n\nIn selecting \'OK\' below, you acknowledge this warning and waive, indemnify and hold harmless CyanogenMod and its contributors from all legal liabilities.</string>
-
     <!-- **** CYANOGENMOD ADDITIONS END **** -->
 </resources>
