@@ -214,7 +214,8 @@
         android:title="@string/header_category_aokp" />
 
     <!-- ROM Control -->
-    <header android:icon="@drawable/ic_settings_rom_control"
+    <header android:id="@+id/rom_control"
+	    android:icon="@drawable/ic_settings_rom_control"
             android:title="@string/rom_control_title">
         <intent
                 android:action="android.intent.action.MAIN"
