@@ -1840,8 +1840,6 @@
     <string name="volume_overlay_expandable">Extensible</string>
     <string name="volume_overlay_expanded">Extendido</string>
     <string name="volume_overlay_none">Ninguno</string>
-    <string name="notification_sound_limiter_title">Limite de notificaciones</string>
-    <string name="notification_sound_limiter_summary">Configura el retraso permitido entre las notificaciones entrantes</string>
     <string name="notification_sound_default_time">Por defecto</string>
     <string name="rotation_settings_title">Rotación</string>
     <string name="rotation_settings_summary">Seleccionar los modos de rotación permitidos</string>
@@ -1853,8 +1851,6 @@
     <string name="notification_light_add">Añadir</string>
     <string name="header_category_customization">Personalización</string>
     <string name="lock_screen_settings">Pantalla de bloqueo</string>
-    <string name="allow_rotate_title">Activar rotación</string>
-    <string name="allow_rotate_summary">Permite el modo paisaje en la pantalla de bloqueo</string>
     <string name="see_through_title">Ver a través</string>
     <string name="see_through_summary">Permite observar la aplicación detrás de la pantalla de bloqueo</string>
     <string name="home_screen_widgets_title">Widgets de la pantalla de inicio</string>
@@ -1989,9 +1985,6 @@
     <string name="lockscreen_target_edit_msg">Seleccionar o cambiar la aplicación (o actividad) y su icono</string>
     <string name="lockscreen_vibrate_enabled_title">Vibración</string>
     <string name="lockscreen_vibrate_enabled_head">Vibrar al desbloquear</string>
-    <string name="lockscreen_battery_status_title">Estado de la batería</string>
-    <string name="lockscreen_battery_status_charging">Solamente en carga</string>
-    <string name="lockscreen_battery_status_alwayson">Siempre</string>
     <string name="profiles_settings_title">Perfiles</string>
     <string name="profiles_general_title">General</string>
     <string name="profiles_add">Añadir</string>

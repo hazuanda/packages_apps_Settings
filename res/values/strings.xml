@@ -4467,8 +4467,6 @@
     <string name="volume_overlay_expandable">Expandable</string>
     <string name="volume_overlay_expanded">Expanded</string>
     <string name="volume_overlay_none">None</string>
-    <string name="notification_sound_limiter_title">Notification sound limit</string>
-    <string name="notification_sound_limiter_summary">Sets the allowed delay between incoming notifications</string>
     <string name="notification_sound_default_time">Default</string>
 
     <!-- Display settings screen, rotation settings -->
@@ -4484,9 +4482,6 @@
 
     <!-- Lock screen sub menu [CHAR LIMIT=30] -->
     <string name="lock_screen_settings">Lock screen</string>
-    <!-- Allow rotation -->
-    <string name="allow_rotate_title">Allow rotation</string>
-    <string name="allow_rotate_summary">Enables landscape mode on lock screen</string>
     <!-- Lock screen see through -->
     <string name="see_through_title">See through</string>
     <string name="see_through_summary">Allows to see the application behind the lock screen</string>
@@ -4703,11 +4698,6 @@
     <!-- Lock screen vibrate settings -->
     <string name="lockscreen_vibrate_enabled_title">Vibrate</string>
     <string name="lockscreen_vibrate_enabled_head">Vibrate when unlocking</string>
-
-    <!-- Lock screen misc. settings -->
-    <string name="lockscreen_battery_status_title">Battery status</string>
-    <string name="lockscreen_battery_status_charging">Only when charging</string>
-    <string name="lockscreen_battery_status_alwayson">Always on</string>
 
     <!-- Profiles settings  -->
     <string name="profiles_settings_title">Profiles</string>

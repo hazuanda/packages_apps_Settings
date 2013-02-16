@@ -2561,4 +2561,14 @@
     <string name="notification_convert_sound_to_vibration_summary">I vibreringstilstand vil alle notifikationer vibrere, uanset individuelle app-indstillinger.</string>
 
    <!-- **** CYANOGENMOD ADDITIONS END **** -->
+
+    <!-- ======================================================================================= -->
+    <!-- AOKP -->
+    <!-- ======================================================================================= -->
+
+    <string name="rom_control_title">ROM Kontrol</string>
+
+    <string name="aokp_version">AOKP version</string>
+    <string name="aokp_version_default">Ukendt</string>
+
 </resources>
